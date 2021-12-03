@@ -34,7 +34,10 @@
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> 
   </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="JavaScript" width="40" height="40"/> 
+    <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="JavaScript" width="40" height="40"/>   
+  
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="JavaScript" width="40" height="40"/> 
     
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> 
@@ -50,9 +53,9 @@
   <a href="https://www.figma.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a> 
-<!--   <a href="https://www.docker.com/" target="_blank"> 
+  <a href="https://www.docker.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" alt="docker" width="40" height="40"/> 
-  </a>   -->
+  </a>  
 <!--   <a href="https://nodejs.org/en/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodeJs" width="40" height="40"/> 
   </a> -->
