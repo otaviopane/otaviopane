@@ -1,33 +1,40 @@
+
+
 <h1 align="center">Hello World! 🌎</h1> 
 <h1 align="center">I'm Otavio Ferraroni Gonçalves Pane</h1> 
-<h3 align="center">A passionate developer learner from Brazil</h3>
-<br/>
-
-- 🔭 I’m currently working
-
-- 🌱 I’m currently learning **technology in multiplatform software development**
-
-- 👨‍💻 All of my projects are available at [otaviopane/repositories](https://github.com/otaviopane?tab=repositories)
-
-- 💬 Ask me about **Python, JavaScript and HTML5/CSS3**
+<h3 align="center">A passionate Front-end developer learner from Brazil</h3>
 
 <br/>
+SlateBlue
+<p align="center">
+  🔭 I’m currently working
+</p>
+<p align="center">
+  🌱 I’m currently learning technology: <a href="cps.sp.gov.br/cursos-fatec/desenvolvimento-de-software-multiplataforma/"><strong>Multiplatform Software Development</strong></a>
+</p>
+<p align="center">
+  👨‍💻 All of my projects are available at <a href="github.com/otaviopane?tab=repositories"><strong>Repositories</strong></a>
+</p>
+<p align="center">
+  💬 Ask me about <a href="w3schools.com/"><strong>JavaScript, TypeScript, Python and HTML5/CSS3</strong></a>
+</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<br/>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
   <a href="https://linkedin.com/in/otavioferraronigpane/" target="blank">
     <img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="otavioferraronigpane" height="40" width="40" />
   </a>
   <a href="otaviopane#4024" target="otaviopane#4024">
     <img align="center" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" alt="user discord" height="40" width="40" />    
   </a>  
-
 </p>
 
 <br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">  
   
   <a href="https://www.python.org/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> 
@@ -98,21 +105,14 @@
   <a href="https://notion.so/">
     <img src="https://seeklogo.com/images/N/notion-app-logo-009B1538E8-seeklogo.com.png" alt="notion" height="40" width="40" />    
   </a>
-
-  
-<!--   <a href="https://nodejs.org/en/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodeJs" width="40" height="40"/> 
-  </a> -->
-<!--   <a href="https://adonisjs.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/adonisjs/adonisjs-icon.svg" alt="adonisJs" width="40" height="40"/> 
-  </a> -->
-<!--   <a href="https://expressjs.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="expressJs" width="40" height="40"/> 
-  </a>   -->
-
 </p>
 
 <br/>
+
+<p align="center">  
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=otaviopane&count_private=true&hide=issues,stars&show_icons=true&theme=dracula&hide_border=true" alt="Anurag's github stats" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviopane&layout=compact&hide=makefile&langs_count=8&theme=dracula&hide_border=true" /></a> 
+</p>
+
 <br/>
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otaviopane&layout=compact&hide=css,scss,makefile&langs_count=8&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
