@@ -5,7 +5,7 @@
 <h3 align="center">A passionate Front-end developer learner from Brazil</h3>
 
 <br/>
-SlateBlue
+
 <p align="center">
   🔭 I’m currently working
 </p>
