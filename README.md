@@ -7,7 +7,7 @@
 <br/>
 
 <p align="center">
-  🔭 I’m currently working
+  🔭 I'm looking for an opportunity as a front-end
 </p>
 <p align="center">
   🌱 I’m currently learning technology: <a href="cps.sp.gov.br/cursos-fatec/desenvolvimento-de-software-multiplataforma/"><strong>Multiplatform Software Development</strong></a>
@@ -24,21 +24,22 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/otavioferraronigpane/" target="blank">
-    <img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="otavioferraronigpane" height="40" width="40" />
+    <img align="center" src="https://user-images.githubusercontent.com/58819253/187577812-ab153c46-dfdf-4cb4-9106-74354e12673e.png" alt="Linkedin: otavioferraronigpane" height="40" width="40" />
   </a>
   <a href="otaviopane#4024" target="otaviopane#4024">
     <img align="center" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" alt="user discord" height="40" width="40" />    
   </a>  
+  <a href="https://www.instagram.com/otaviopane" target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/58819253/187578185-b2fc3946-1897-4a8e-ad4e-acea4e729a12.png" alt="Instagram" height="40" width="40" />    
+  </a>  
+  
+
 </p>
 
 <br/>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">  
-  
-  <a href="https://www.python.org/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> 
-  </a>
   
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"> 
     <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="JavaScript" width="40" height="40"/>   
@@ -58,8 +59,16 @@
   
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> 
-  </a> 
+  </a>
     
+  <a href="https://www.python.org/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> 
+  </a>
+  
+  <a href="https://getbootstrap.com//" target="_blank"> 
+    <img src="https://user-images.githubusercontent.com/58819253/187578637-a3e4e6f4-50b3-4eb5-aa6f-d138958f3c77.png" alt="python" width="40" height="40"/> 
+  </a>
+
   <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40" height="40"/> 
   </a>
